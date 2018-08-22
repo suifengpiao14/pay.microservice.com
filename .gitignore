@@ -1,0 +1,5 @@
+vendor
+.gitreview
+.idea
+public/php_errors.log
+public/qrcode/
